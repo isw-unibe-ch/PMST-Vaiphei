@@ -1,0 +1,8 @@
+tag_id,tag_column_name,comment,language_id
+optional_hun,overabundance_tag,form does not contain a marker hun (that is there in other forms with the same scenario),vaiphei
+hort,paradigm_tag,form is a hortative (not from declarative paradigm),vaiphei
+lou_neg,paradigm_tag,form is part of a paradigm negated with lou,vaiphei
+pua_neg,paradigm_tag,form is part of a paradigm negated with pua,vaiphei
+formal,variants_tag,form is used in formal contexts,vaiphei
+informal,variants_tag,form is informal/colloquial,vaiphei
+unspecified,variants_tag,form is not used in special contexts,vaiphei

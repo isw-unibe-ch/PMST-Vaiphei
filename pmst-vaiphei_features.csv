@@ -1,0 +1,12 @@
+value_id,label,feature,unimorph,language_id
+excl,exclusive,clusivity,EXCL,vaiphei
+incl,inclusive,clusivity,INCL,vaiphei
+pl,plural,number,PL,vaiphei
+sg,singular,number,SG,vaiphei
+1,first person,person,1,vaiphei
+2,second person,person,2,vaiphei
+3,third person,person,3,vaiphei
+aff,affirmative,polarity,POS,vaiphei
+neg,negative,polarity,NEG,vaiphei
+fut,future,tense_aspect,FUT,vaiphei
+nfut,non-future,tense_aspect,,vaiphei
