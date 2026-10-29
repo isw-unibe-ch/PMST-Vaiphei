@@ -16,9 +16,12 @@ For more details about the data, please consult the data\_sheet.md in the docs f
 ## Additional information specific to Vaiphei
 
 * Mapping between database paradigm labels and Vaiphei descriptive labels (Suantak 2013):
-Database label = Language-specific descriptive label
-fut = future
-nfut = simple aspect
+
+   Database label = Language-specific descriptive label
+
+   - fut = future
+   - nfut = simple aspect
+  
 * Gaps: In the 1.pl.incl.fut.neg, 1.pl.incl.3.sg.fut.neg and 1.pl.incl.3.pl.fut.neg scenarios the expected forms for the pua\_neg paradigm are not attested. In their place hortative forms are found, which are hence tagged via the "hort" tag.
 * Tone: Vaiphei has contrastive tone, but a thorough analysis is pending, which is why tone is not marked in the source forms.
 * Tags:
