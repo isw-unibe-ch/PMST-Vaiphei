@@ -72,7 +72,7 @@ vaiphei070,chia,1.sg.fut.neg,chia puang ka,Σ puang ka,Σ+pua+ng+ka,Σ p ua ŋ k
 vaiphei071,chia,1.pl.excl.fut.neg,chia lo di kahiu,Σ lo di kahiu,Σ+lo+di+ka+hi+u,Σ l ou d i k a h i u,Σ + l ou + d i + k a + h i + u,unspecified,lou_neg,,Reich2026Vaiphei,nopage,vaiphei
 vaiphei072,chia,1.pl.excl.fut.neg,chia puang kau,Σ puang kau,Σ+pua+ng+ka+u,Σ p ua ŋ k a u,Σ + p ua + ŋ + k a + u,unspecified,pua_neg,,Reich2026Vaiphei,nopage,vaiphei
 vaiphei073,chia,1.pl.incl.fut.neg,chia lo di ihiu,Σ lo di ihiu,Σ+lo+di+i+hi+u,Σ l ou d i i h i u,Σ + l ou + d i + i + h i + u,unspecified,lou_neg,,Reich2026Vaiphei,nopage,vaiphei
-vaiphei074,chia,1.pl.incl.fut.neg,chia puai tiu,Σ puai tiu,Σ+pua+i+ti+u,Σ p ua i t i u,Σ + p ua + i + t i + u,unspecified,pua_neg; hort,,Reich2026Vaiphei,nopage,vaiphei
+vaiphei074,chia,1.pl.incl.fut.neg,chia puai tiu,Σ puai tiu,Σ+pua+i+ti+u,Σ p ua i t i u,Σ + p ua + i + t i + u,unspecified,pua_neg|hort,,Reich2026Vaiphei,nopage,vaiphei
 vaiphei075,mu,1.sg.2.sg.fut.neg,hun mu lo di kahi,hun Σ lo di kahi,hun+Σ+lo+di+ka+hi,h u n Σ l ou d i k a h i,h u n + Σ + l ou + d i + k a + h i,unspecified,lou_neg,,Reich2026Vaiphei,nopage,vaiphei
 vaiphei076,mu,1.sg.2.sg.fut.neg,hun mu puang ka,hun Σ puang ka,hun+Σ+pua+ng+ka,h u n Σ p ua ŋ k a,h u n + Σ + p ua + ŋ + k a,unspecified,pua_neg,,Reich2026Vaiphei,nopage,vaiphei
 vaiphei077,mu,1.sg.2.sg.fut.neg,mu lo di kahi,Σ lo di kahi,Σ+lo+di+ka+hi,Σ l ou d i k a h i,Σ + l ou + d i + k a + h i,unspecified,lou_neg,optional_hun,Reich2026Vaiphei,nopage,vaiphei
@@ -96,11 +96,11 @@ vaiphei094,mu,1.sg.3.sg.fut.neg,mu puang ka,Σ puang ka,Σ+pua+ng+ka,Σ p ua ŋ 
 vaiphei095,mu,1.pl.excl.3.sg.fut.neg,mu lo di kahiu,Σ lo di kahiu,Σ+lo+di+ka+hi+u,Σ l ou d i k a h i u,Σ + l ou + d i + k a + h i + u,unspecified,lou_neg,,Reich2026Vaiphei,nopage,vaiphei
 vaiphei096,mu,1.pl.excl.3.sg.fut.neg,mu puang kau,Σ puang kau,Σ+pua+ng+ka+u,Σ p ua ŋ k a u,Σ + p ua + ŋ + k a + u,unspecified,pua_neg,,Reich2026Vaiphei,nopage,vaiphei
 vaiphei097,mu,1.pl.incl.3.sg.fut.neg,mu lo di ihiu,Σ lo di ihiu,Σ+lo+di+i+hi+u,Σ l ou d i i h i u,Σ + l ou + d i + i + h i + u,unspecified,lou_neg,,Reich2026Vaiphei,nopage,vaiphei
-vaiphei098,mu,1.pl.incl.3.sg.fut.neg,mu puai tiu,Σ puai tiu,Σ+pua+i+ti+u,Σ p ua i t i u,Σ + p ua + i + t i + u,unspecified,pua_neg; hort,,Reich2026Vaiphei,nopage,vaiphei
+vaiphei098,mu,1.pl.incl.3.sg.fut.neg,mu puai tiu,Σ puai tiu,Σ+pua+i+ti+u,Σ p ua i t i u,Σ + p ua + i + t i + u,unspecified,pua_neg|hort,,Reich2026Vaiphei,nopage,vaiphei
 vaiphei099,mu,1.pl.excl.3.pl.fut.neg,mu lo di kahiu,Σ lo di kahiu,Σ+lo+di+ka+hi+u,Σ l ou d i k a h i u,Σ + l ou + d i + k a + h i + u,unspecified,lou_neg,,Reich2026Vaiphei,nopage,vaiphei
 vaiphei100,mu,1.pl.excl.3.pl.fut.neg,mu puang kau,Σ puang kau,Σ+pua+ng+ka+u,Σ p ua ŋ k a u,Σ + p ua + ŋ + k a + u,unspecified,pua_neg,,Reich2026Vaiphei,nopage,vaiphei
 vaiphei101,mu,1.pl.incl.3.pl.fut.neg,mu lo di ihiu,Σ lo di ihiu,Σ+lo+di+i+hi+u,Σ l ou d i i h i u,Σ + l ou + d i + i + h i + u,unspecified,lou_neg,,Reich2026Vaiphei,nopage,vaiphei
-vaiphei102,mu,1.pl.incl.3.pl.fut.neg,mu puai tiu,Σ puai tiu,Σ+pua+i+ti+u,Σ p ua i t i u,Σ + p ua + i + t i + u,unspecified,pua_neg; hort,,Reich2026Vaiphei,nopage,vaiphei
+vaiphei102,mu,1.pl.incl.3.pl.fut.neg,mu puai tiu,Σ puai tiu,Σ+pua+i+ti+u,Σ p ua i t i u,Σ + p ua + i + t i + u,unspecified,pua_neg|hort,,Reich2026Vaiphei,nopage,vaiphei
 vaiphei103,chia,2.sg.fut.neg,chia lo di lahi,Σ lo di lahi,Σ+lo+di+la+hi,Σ l ou d i l a h i,Σ + l ou + d i + l a + h i,unspecified,lou_neg,,Reich2026Vaiphei,nopage,vaiphei
 vaiphei104,chia,2.sg.fut.neg,chia puan la,Σ puan la,Σ+pua+n+la,Σ p ua n l a,Σ + p ua + n + l a,unspecified,pua_neg,,Reich2026Vaiphei,nopage,vaiphei
 vaiphei105,chia,2.pl.fut.neg,chia lo di lahiu,Σ lo di lahiu,Σ+lo+di+la+hi+u,Σ l ou d i l a h i u,Σ + l ou + d i + l a + h i + u,unspecified,lou_neg,,Reich2026Vaiphei,nopage,vaiphei
